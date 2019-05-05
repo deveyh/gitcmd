@@ -1,0 +1,39 @@
+远程仓库未创建
+
+git init 初始化本地仓库
+
+git status  查看状态
+
+git add * 提交所有文件到暂存区
+
+git remote add origin ssh地址    链接远程仓库步骤1
+
+git push -u origin master 链接远程仓库步骤2
+
+git add 提交所有文件到本地仓库
+
+git status 查看状态
+
+git commit -m "xxx" 提交文件到暂存区
+
+git pull origin master 拉最新代码（下载）
+
+git push  origin master 推送到远程仓库（上传）
+
+git marge dev 合并分支
+
+远程仓库已创建
+
+git clont xxxxxx
+
+关联远程
+
+git remote add origin ssh地址  链接远程仓库1
+
+git pull origin master 拉最新代码（下载）
+
+git add * 提交所有文件到本地仓库
+
+git commit -m "xxx" 提价文件到暂存区
+
+git push origin master 推送到远程仓库
